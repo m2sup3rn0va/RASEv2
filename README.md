@@ -103,7 +103,7 @@
 - Hit Next > Next > Next > Install
 - Once the installation is over, click `Next` you will see
 
-  ![](screenshots/Windows/AndroidStudio-1.png)
+  ![](screenshots/windows/AndroidStudio-1.png)
 
 - Click `Finish`
 - After this, it will prompt you again, click `Do Not Import Settings` and `Don't Send` and then Next > Next > Next > Finish
