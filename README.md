@@ -277,7 +277,7 @@
 
 ---
 
-- Credits for design inspiration : [Wanderson - Youtube](https://www.youtube.com/user/VFXtestingWMP)
+- GUI Inspiration : [Wanderson - Youtube](https://www.youtube.com/user/VFXtestingWMP)
 - The designs will not be possible without his tutorials 👍
 
 ---
