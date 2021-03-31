@@ -28,6 +28,8 @@
 
 - Stands for **"Root Android Studio Emulators - v2"**
 - This is a toolkit to auto-install emulator and then root it
+- The thought process to create this was to ease Mobile PT via Android Emulator.
+- Thus only one image of each v6, v7, v8, v9 is currently added but definitely we have scope for more
 
 ---
 
