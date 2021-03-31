@@ -18,7 +18,7 @@
 - [**Usage**](#usage)
   - [**Usage - Windows**](#usage---windows)
   - [**Usage - Linux**](#usage---linux)
-  - [**BIG SHOUT**](#big-shout)
+- [**BIG SHOUT**](#big-shout)
 
 ---
 
@@ -273,7 +273,7 @@
 
 ---
 
-### **BIG SHOUT**
+## **BIG SHOUT**
 
 ---
 
