@@ -62,7 +62,7 @@
 ---
 
 - Download latest **Android Studio** and **Python** from Internet
-- **Windows Terminal** and **GWSL** can be downloaded from Microsoft Store free of cost. It will prompt you to sign-in but you can close the window
+- **Windows Terminal** can be downloaded from Microsoft Store free of cost. It will prompt you to sign-in but you can close the window
 - Once all the above are downloaded, open downloaded **'Windows Terminal'** and copy-paste
 
     `pip3.exe install -U pip rich pyqt5 pyqt5-tools wget --user --no-warn-script-location`
