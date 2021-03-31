@@ -271,3 +271,16 @@
 ☝️ <a href="#">Back to top</a> ☝️
 
 ---
+
+### **BIG SHOUT**
+
+---
+
+- Credits for design inspiration : [Wanderson - Youtube](https://www.youtube.com/user/VFXtestingWMP)
+- The designs will not be possible without his tutorials 👍
+
+---
+
+☝️ <a href="#">Back to top</a> ☝️
+
+---
