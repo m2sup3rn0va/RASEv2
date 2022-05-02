@@ -46,6 +46,7 @@
 - **Supports both Windows and Linux(Ubuntu) platforms**
 - **Colorfull installation console logs**
 - **Powershell/Bash scripts have argument based auto-completion feature**
+- **Now works in Kali Linux running inside WSL2 in Windows 11**
 
 ---
 
